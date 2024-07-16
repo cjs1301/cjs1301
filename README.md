@@ -22,4 +22,5 @@
     src="https://raw.githubusercontent.com/cjs1301/cjs1301/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=200&color=auto&reversal=false&descAlign=69&descAlignY=68&fontSize=35&section=footer)
